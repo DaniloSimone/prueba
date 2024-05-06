@@ -1,0 +1,14 @@
+{
+  "name": "primera",
+  "version": "1.0.0",
+  "description": "calculadora de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danilo Simone",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
